@@ -18,3 +18,6 @@ Bot depends on the backend which is located here: https://github.com/Daylight-La
 - Update all references of 'app.landing.party' to your own back-end url, and all references of our discord community link to your own discord community link
 - Run 'main_bot.py' to start the bot
 - Bot can run on just a single server now. Did not find a reasonable way to scale
+
+
+Provided "as is", without warranty of any kind
